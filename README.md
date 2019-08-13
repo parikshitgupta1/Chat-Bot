@@ -1,4 +1,4 @@
-# Chatbot
+# Chat
 AI Based Chatbot which supports voice inputs and outputs
 
 ## Requirements
