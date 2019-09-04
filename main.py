@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-import aiml
+impo
 import os
 
 app = Flask(__name__)
