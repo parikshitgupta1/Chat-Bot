@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 import aiml
-import o
+import os
 
 app = Flask(__name__)
 
