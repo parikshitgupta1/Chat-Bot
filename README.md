@@ -24,7 +24,7 @@ AI Based Chatbot, which supports voice inputs and outputs
     ```bash
     python main.py
     ```
-4. Open **http://127.0.0.1:4000** in your browser.
+4. Open **http://127.0.0.1:5000** in your browser.
 
 5. You're done and enjoy chatting with your bot via browser.
 
